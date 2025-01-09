@@ -3,7 +3,7 @@
 This is my ✨ _special_ ✨ public GitHub profile README repo :godmode: 
 
 ## I'm a dual-national Australian and British developer living in Sydney, with roots in London.
-<img src="https://github.com/billrafferty/billrafferty/blob/main/octocat-1736406647734.png?raw=true" alt="Octocatbill" width="400" height="400">
+<img src="https://github.com/billrafferty/billrafferty/blob/main/octocat-1736406647734.png?raw=true" alt="Octocatbill" width="300" height="300">
 
 - 📫 How to reach me: [Links Page](https://bill.hidden.com.au/)
 - 🌱 I’m currently learning about LM, AI, AGI, Prompting, Vectors & this latest Deus ex machina that suddenly or abruptly seems to be resolving our interactions with the digital world.
